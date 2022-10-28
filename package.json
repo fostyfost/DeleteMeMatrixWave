@@ -2,7 +2,9 @@
   "name": "delete-me-matrix-wave",
   "private": true,
   "scripts": {
-    "dev": "npx http-server",
     "start": "npx http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
