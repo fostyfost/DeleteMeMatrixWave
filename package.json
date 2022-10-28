@@ -1,4 +1,8 @@
 {
-    "name": "delete-me-matrix-wave",
-    "private": true
+  "name": "delete-me-matrix-wave",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server",
+    "start": "npx http-server"
+  }
 }
